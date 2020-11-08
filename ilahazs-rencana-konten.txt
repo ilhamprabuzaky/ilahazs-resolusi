@@ -3,8 +3,8 @@ RENCANA KONTEN ILAHAZS
 1. JAVASCRIPT
   * ES6
   * Framework
-    ^ Angular
-    ^ React
+    ^ Vuew
+    ^ React 
 2. PHP
   * Framework
     ^ Laravel
