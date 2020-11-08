@@ -4,6 +4,7 @@ RENCANA KONTEN ILAHAZS
   * ES6
   * Framework
     ^ Vuew
+    ^ React
 2. PHP
   * Framework
   ^ Laravel
