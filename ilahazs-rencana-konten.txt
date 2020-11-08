@@ -1,0 +1,9 @@
+RENCANA KONTEN ILAHAZS
+
+1. JAVASCRIPT
+  * ES6
+  * Framework
+2. PHP
+3. API
+4. Reaction
+5. 
