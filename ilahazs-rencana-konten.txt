@@ -6,4 +6,4 @@ RENCANA KONTEN ILAHAZS
 2. PHP
 3. API
 4. Reaction
-5. 
+5. Struktur data dasar
