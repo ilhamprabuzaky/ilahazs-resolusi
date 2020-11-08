@@ -4,10 +4,9 @@ RENCANA KONTEN ILAHAZS
   * ES6
   * Framework
     ^ Vuew
-    ^ React
+    ^ React 
 2. PHP
   * Framework
-  ^ Laravel
+    ^ Laravel
 3. API
 4. Reaction
-5. Struktur data dasar
